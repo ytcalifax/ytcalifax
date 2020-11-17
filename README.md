@@ -45,6 +45,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MineCraft Startup Scripts](https://califax.host/scripts/2020/06/13/minecraft-startup-scripts/)
+- [DDoS Protection With IPtables](https://califax.host/tweaks/2020/06/13/ultimate-iptables-ddos-protection/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://califax.host)
