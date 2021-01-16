@@ -6,7 +6,7 @@
 ## I'm a backend C#, PHP and NodeJS dev
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 & 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 & 2022 Goals: Contribute more to Open Source projects
 - ⚡ Hobbies: Photography / Gaming
 
 ### Connect with me:
