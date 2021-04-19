@@ -1,6 +1,6 @@
-### Hi there, I'm [CalifaxYT][website] 👋
+### Hi there, I'm [ytcalifax][website] 👋
 
-[![Website](https://img.shields.io/website?label=califax.host&style=for-the-badge&url=https%3A%2F%2Fcalifax.host)](https://califax.host)
+[![Website](https://img.shields.io/website?label=califax.host&style=for-the-badge&url=https%3A%2F%2Fcalifax.host)](#)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ytcalifax?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fytcalifax&screen_name=ytcalifax)
 
 ## I'm a backend C#, PHP and NodeJS dev
@@ -11,10 +11,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="califax.host" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="CalifaxYT | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="CalifaxYT | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="CalifaxYT | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="#" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ytcalifax | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="ytcalifax | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ytcalifax | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -41,11 +41,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [MineCraft Startup Scripts](https://califax.host/scripts/2020/06/13/minecraft-startup-scripts/)
-- [DDoS Protection With IPtables](https://califax.host/tweaks/2020/06/13/ultimate-iptables-ddos-protection/)
+- [MineCraft Startup Scripts](#)
+- [DDoS Protection With IPtables](#)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://califax.host)
+➡️ [more blog posts...](#)
 
 ---
 
@@ -60,11 +60,11 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="CalifaxYT's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CalifaxYT&show_icons=true&hide_border=true" />
+  <img align="left" alt="ytcalifax's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ytcalifax&show_icons=true&hide_border=true" />
 
 </details>
 
-[website]: https://califax.host
+[website]: #
 [twitter]: https://twitter.com/ytcalifax
 [youtube]: https://www.youtube.com/channel/UCYFr6dEraGictp4nOGnQpQvQ
 [instagram]: https://instagram.com/btrayanovv
