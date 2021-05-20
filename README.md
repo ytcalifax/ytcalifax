@@ -36,30 +36,16 @@
 
 ---
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [MineCraft Startup Scripts](#)
-- [DDoS Protection With IPtables](#)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](#)
-
----
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
 <!--START_SECTION:activity-->
+  
 <!--END_SECTION:activity-->
-
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="ytcalifax's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ytcalifax&show_icons=true&hide_border=true" />
-
 </details>
 
 [twitter]: https://twitter.com/ytcalifax
