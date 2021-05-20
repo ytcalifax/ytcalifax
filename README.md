@@ -45,8 +45,9 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="ytcalifax's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ytcalifax&show_icons=true&hide_border=true" />
+  <summary>:zap: Complete Recent Activity</summary>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </details>
 
 [twitter]: https://twitter.com/ytcalifax
