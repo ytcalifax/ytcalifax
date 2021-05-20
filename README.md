@@ -49,9 +49,6 @@
   <img align="left" alt="ytcalifax's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ytcalifax&show_icons=true&hide_border=true" />
 </details>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 [twitter]: https://twitter.com/ytcalifax
 [youtube]: https://www.youtube.com/channel/UCYFr6dEraGictp4nOGnQpQvQ
 [instagram]: https://instagram.com/btrayanovv
