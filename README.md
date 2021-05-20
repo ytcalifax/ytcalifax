@@ -39,7 +39,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-  
+1. 💪 Opened PR [#6](https://github.com/X00LA/vMenu/pull/6) in [X00LA/vMenu](https://github.com/X00LA/vMenu)
 <!--END_SECTION:activity-->
 </details>
 
