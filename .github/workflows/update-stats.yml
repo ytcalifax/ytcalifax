@@ -1,14 +1,13 @@
-name: GitHub - Activity - Readme
+name: GitHub - Stats - Readme
 
 on:
   workflow_dispatch:
   schedule:    
     - cron: "0 */1 * * *"
-  workflow_dispatch:
 
 jobs:
   update-readme:
-    name: GitHub - Activity - Readme
+    name: GitHub - Stats - Readme
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
