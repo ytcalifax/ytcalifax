@@ -5,7 +5,7 @@
   <a href="https://twitter.com/ytcalifax">Twitter</a> 
 </p>
 
-<p>Welcome to my page! </br> I'm ytcalifax,a fullstack developer from <img src="https://img.icons8.com/color/48/000000/bulgaria-circular.png" width="13"/> <b>Sofia, Bulgaria</b>.</p>
+<p>Welcome to my page! </br> I'm CalifaxYT,a fullstack developer from <img src="https://img.icons8.com/color/48/000000/bulgaria-circular.png" width="13"/> <b>Sofia, Bulgaria</b>.</p>
 
 - 🌱 I’m currently learning everything
 - 🥅 2021 & 2022 Goals: Contribute more to Open Source projects
@@ -44,3 +44,6 @@
 <!--END_SECTION:waka-->
 </details>
 
+
+------------
+<p align="center">This <i>README</i> file is generated <b>every 2 hours</b>!</br><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
