@@ -1,57 +1,46 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Hello! I'm  <a href="https://twitter.com/ytcalifax">ytcalifax</a>.</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Hey! Nice to see you.</h2>
 <p align="center">  
   <a href="https://instagram.com/btrayanovv">Instagram</a> •
   <a href="https://www.youtube.com/channel/UCYFr6dEraGictp4nOGnQpQvQ">YouTube</a> •
   <a href="https://twitter.com/ytcalifax">Twitter</a> 
 </p>
 
-## I'm a backend C#, PHP and NodeJS dev
+<p>Welcome to my page! </br> I'm ytcalifax,a fullstack developer from <img src="https://img.icons8.com/color/48/000000/bulgaria-circular.png" width="13"/> <b>Sofia, Bulgaria</b>.</p>
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 🥅 2021 & 2022 Goals: Contribute more to Open Source projects
-- ⚡ Hobbies: Photography / Gaming
+- 💬 Ask me about **anything coding-related**.
+- 📫 How to reach me: [@ytcalifax](https://twitter.com/ytcalifax) on Twitter
 
--------
+-----
+### 🔨 Languages & Tools
+<p>  
+  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-EC4A3F?style=flat-square&logo=visual-studio&logoColor=white" />  
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-13aa52?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="LUA" src="https://img.shields.io/badge/-LUA-46a2f1?style=flat-square&logo=lua&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-2088FF?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-F9A03C?style=flat-square&logo=python&logoColor=white" />
+  <img alt="SQL/MySQL" src="https://img.shields.io/badge/-SQL/MySQL-F7B93E?style=flat-square&logo=mysql&logoColor=white" />
+</p>
 
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="LUA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-
----
+-----
+### 🏆 Github Stats
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+<summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#6](https://github.com/X00LA/vMenu/pull/6) in [X00LA/vMenu](https://github.com/X00LA/vMenu)
 <!--END_SECTION:activity-->
 </details>
 
 
--------
-
-⚡ **Weekly development breakdown**
+<details>
+<summary>:bar_chart: Weekly development breakdown</summary>
 <!--START_SECTION:waka-->
-```text
-Lua       1 hr 47 mins    ████████████▒░░░░░░░░░░░░   48.72 % 
-JSON      1 hr 4 mins     ███████▒░░░░░░░░░░░░░░░░░   29.11 % 
-INI       48 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.97 % 
-```
 <!--END_SECTION:waka-->
-
--------
+</details>
 
