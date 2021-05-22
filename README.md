@@ -46,6 +46,11 @@
 
 ⚡ **Weekly development breakdown**
 <!--START_SECTION:waka-->
+```text
+Lua       1 hr 47 mins    ████████████▒░░░░░░░░░░░░   48.72 % 
+JSON      1 hr 4 mins     ███████▒░░░░░░░░░░░░░░░░░   29.11 % 
+INI       48 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.97 % 
+```
 <!--END_SECTION:waka-->
 
 -------
