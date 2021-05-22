@@ -1,8 +1,7 @@
 <h2 align="center">👋 Hello! I'm  <a href="https://twitter.com/ytcalifax">ytcalifax</a>.</h2>
 <p align="center">
-  <a href="https://instagram.com/btrayanovv">IG</a> •
-  <a href="https://www.youtube.com/channel/UCYFr6dEraGictp4nOGnQpQvQ">YT</a> •
-  <a href="https://twitter.com/ytcalifax">TW</a> 
+  <a href="https://instagram.com/btrayanovv">Instagram</a> •
+  <a href="https://twitter.com/ytcalifax">Twitter</a> 
 </p>
 
 ## I'm a backend C#, PHP and NodeJS dev
