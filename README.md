@@ -1,6 +1,7 @@
-<h2 align="center">👋 Hello! I'm  <a href="https://twitter.com/ytcalifax">ytcalifax</a>.</h2>
-<p align="center">
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello! I'm  <a href="https://twitter.com/ytcalifax">ytcalifax</a>.</h2>
+<p align="center">  
   <a href="https://instagram.com/btrayanovv">Instagram</a> •
+  <a href="https://www.youtube.com/channel/UCYFr6dEraGictp4nOGnQpQvQ">YouTube</a> •
   <a href="https://twitter.com/ytcalifax">Twitter</a> 
 </p>
 
@@ -10,8 +11,7 @@
 - 🥅 2021 & 2022 Goals: Contribute more to Open Source projects
 - ⚡ Hobbies: Photography / Gaming
 
-
-<br />
+-------
 
 ### Languages and Tools:
 
@@ -51,7 +51,3 @@ INI       48 mins         █████▒░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 </details>
-
-[twitter]: https://twitter.com/ytcalifax
-[youtube]: https://www.youtube.com/channel/UCYFr6dEraGictp4nOGnQpQvQ
-[instagram]: https://instagram.com/btrayanovv
