@@ -1,6 +1,9 @@
 <h2 align="center">👋 Hello! I'm  <a href="https://twitter.com/ytcalifax">ytcalifax</a>.</h2>
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/ytcalifax?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fytcalifax&screen_name=ytcalifax)
+<p align="center">
+  <a href="https://instagram.com/btrayanovv">Instagram</a> •
+  <a href="https://www.youtube.com/channel/UCYFr6dEraGictp4nOGnQpQvQ">YouTube</a> •
+  <a href="https://twitter.com/ytcalifax">Twitter</a> 
+</p>
 
 ## I'm a backend C#, PHP and NodeJS dev
 
@@ -8,11 +11,6 @@
 - 🥅 2021 & 2022 Goals: Contribute more to Open Source projects
 - ⚡ Hobbies: Photography / Gaming
 
-### Connect with me:
-
-[<img align="left" alt="ytcalifax | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="ytcalifax | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ytcalifax | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
