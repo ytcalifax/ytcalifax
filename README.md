@@ -1,7 +1,7 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Hello! I'm  <a href="https://twitter.com/ytcalifax">ytcalifax</a>.</h2>
 <p align="center">  
   <a href="https://instagram.com/btrayanovv">Instagram</a> •
-  <a href="https://www.youtube.com/channel/UCYFr6dEraGictp4nOGnQpQvQ">YT</a> •
+  <a href="https://www.youtube.com/channel/UCYFr6dEraGictp4nOGnQpQvQ">YouTube</a> •
   <a href="https://twitter.com/ytcalifax">Twitter</a> 
 </p>
 
@@ -41,7 +41,7 @@
 <!--END_SECTION:activity-->
 </details>
 
-<details>
+
   <summary>:zap: Last Week's Activity</summary>
   <!--START_SECTION:waka-->
 ```text
@@ -50,4 +50,4 @@ JSON      1 hr 4 mins     ███████▒░░░░░░░░░░
 INI       48 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.97 % 
 ```
 <!--END_SECTION:waka-->
-</details>
+<
