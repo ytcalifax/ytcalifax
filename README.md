@@ -17,7 +17,7 @@
 <p>  
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-EC4A3F?style=flat-square&logo=visual-studio&logoColor=white" />  
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+  <img alt="Brave Browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-13aa52?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=javascript&logoColor=white" />
