@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> Hello! I'm  <a href="https://twitter.com/ytcalifax">ytcalifax</a>.</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Hello! I'm  <a href="https://twitter.com/ytcalifax">ytcalifax</a>.</h2>
 <p align="center">  
   <a href="https://instagram.com/btrayanovv">Instagram</a> •
   <a href="https://www.youtube.com/channel/UCYFr6dEraGictp4nOGnQpQvQ">YouTube</a> •
