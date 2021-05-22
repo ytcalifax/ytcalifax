@@ -30,18 +30,14 @@
 -----
 ### 🏆 Github Stats
 
-<summary>:zap: Recent GitHub Activity:</summary>
+- :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#6](https://github.com/X00LA/vMenu/pull/6) in [X00LA/vMenu](https://github.com/X00LA/vMenu)
 <!--END_SECTION:activity-->
-</br></br>
-<summary>:bar_chart: Weekly Development Breakdown:</summary>
+</br>
+- :bar_chart: Weekly Development Breakdown:</br>
 <!--START_SECTION:waka-->
-```text
-Lua       1 hr 47 mins    ████████████▒░░░░░░░░░░░░   48.72 % 
-JSON      1 hr 4 mins     ███████▒░░░░░░░░░░░░░░░░░   29.11 % 
-INI       48 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.97 % 
-```
+
 <!--END_SECTION:waka-->
 
 ------------
