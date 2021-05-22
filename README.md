@@ -45,9 +45,8 @@
 </details>
 
 <details>
-  <summary>:zap: Complete Recent Activity</summary>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+  <summary>:zap: Last Week's Activity</summary>
+https://github-readme-stats.vercel.app/api/wakatime?username=@Trayanov&layout=compact&theme=onedark
 </details>
 
 [twitter]: https://twitter.com/ytcalifax
