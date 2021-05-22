@@ -30,11 +30,6 @@
 -----
 ### 🏆 Github Stats
 
-- :zap: Recent GitHub Activity:</br>
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/X00LA/vMenu/pull/6) in [X00LA/vMenu](https://github.com/X00LA/vMenu)
-<!--END_SECTION:activity-->
-</br>
 - :bar_chart: Weekly Development Breakdown:</br>
 <!--START_SECTION:waka-->
 ```text
@@ -43,6 +38,11 @@ JSON      1 hr 4 mins     ███████▒░░░░░░░░░░
 INI       48 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.97 % 
 ```
 <!--END_SECTION:waka-->
+</br>
+- :zap: Recent GitHub Activity:</br>
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#6](https://github.com/X00LA/vMenu/pull/6) in [X00LA/vMenu](https://github.com/X00LA/vMenu)
+<!--END_SECTION:activity-->
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>every 2 hours</b>!</br><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
