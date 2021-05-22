@@ -46,7 +46,8 @@
 
 <details>
   <summary>:zap: Last Week's Activity</summary>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Trayanov&layout=compact&theme=onedark"/>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </details>
 
 [twitter]: https://twitter.com/ytcalifax
