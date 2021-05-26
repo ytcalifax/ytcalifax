@@ -46,4 +46,4 @@ Git Config   9 mins          ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:activity-->
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 2 hours</b>!</br><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every day</b>!</br><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
