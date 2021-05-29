@@ -33,11 +33,11 @@
 - :bar_chart: Weekly Development Breakdown:</br>
 <!--START_SECTION:waka-->
 ```text
-Lua          10 hrs 29 mins  ████████████████░░░░░░░░░   63.75 % 
-INI          4 hrs 50 mins   ███████▒░░░░░░░░░░░░░░░░░   29.37 % 
-JSON         34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-SQL          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-Git Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Lua          11 hrs 46 mins  █████████████▓░░░░░░░░░░░   55.25 % 
+INI          8 hrs 4 mins    █████████▒░░░░░░░░░░░░░░░   37.94 % 
+JSON         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Other        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Git Config   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 ```
 <!--END_SECTION:waka-->
 </br>
