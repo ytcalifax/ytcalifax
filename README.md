@@ -33,11 +33,11 @@
 - :bar_chart: Weekly Development Breakdown:</br>
 <!--START_SECTION:waka-->
 ```text
-Lua      5 hrs 33 mins   ████████░░░░░░░░░░░░░░░░░   31.91 % 
-Python   4 hrs 21 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.04 % 
-INI      3 hrs 46 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.71 % 
-Rust     1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Text     52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Lua      5 hrs 33 mins   ████████░░░░░░░░░░░░░░░░░   32.37 % 
+Python   4 hrs 43 mins   ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+INI      3 hrs 46 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.02 % 
+Rust     1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Text     28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 <!--END_SECTION:waka-->
 </br>
