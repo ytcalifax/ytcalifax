@@ -33,11 +33,9 @@
 - :bar_chart: Weekly Development Breakdown:</br>
 <!--START_SECTION:waka-->
 ```text
-Python   4 hrs 43 mins   █████████████████████▒░░░   85.49 % 
-Lua      20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-YAML     12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-C        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-JSON     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Python       22 mins         ███████████████▓░░░░░░░░░   62.20 % 
+YAML         12 mins         ████████▓░░░░░░░░░░░░░░░░   34.46 % 
+Properties   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 <!--END_SECTION:waka-->
 </br>
