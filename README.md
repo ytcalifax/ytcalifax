@@ -33,8 +33,7 @@
 - :bar_chart: Weekly Development Breakdown:</br>
 <!--START_SECTION:waka-->
 ```text
-YAML         12 mins         ██████████████████████▓░░   91.18 % 
-Properties   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 </br>
