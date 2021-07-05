@@ -33,7 +33,10 @@
 - :bar_chart: Weekly Development Breakdown:</br>
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Lua    44 mins         █████████▒░░░░░░░░░░░░░░░   37.24 % 
+HTML   39 mins         ████████▒░░░░░░░░░░░░░░░░   33.49 % 
+INI    28 mins         ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+CSS    6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 ```
 <!--END_SECTION:waka-->
 </br>
