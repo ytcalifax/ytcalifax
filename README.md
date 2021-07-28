@@ -33,9 +33,8 @@
 - :bar_chart: Weekly Development Breakdown:</br>
 <!--START_SECTION:waka-->
 ```text
-Python   1 hr 45 mins    ███████████████████████░░   91.48 % 
-INI      8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-Bash     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Python   1 hr 45 mins    ███████████████████████░░   92.34 % 
+INI      8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
 ```
 <!--END_SECTION:waka-->
 </br>
