@@ -33,7 +33,7 @@
 - :bar_chart: Weekly Development Breakdown:</br>
 <!--START_SECTION:waka-->
 ```text
-INI     8 mins          ████████████████████████▒   97.01 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 </br>
