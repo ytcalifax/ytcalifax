@@ -33,7 +33,7 @@
 - :bar_chart: Weekly Development Breakdown:</br>
 <!--START_SECTION:waka-->
 ```text
-
+INI          2 mins          ██████████████████████▓░░   91.32 % 
 ```
 <!--END_SECTION:waka-->
 </br>
