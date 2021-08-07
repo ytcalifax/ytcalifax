@@ -33,9 +33,11 @@
 - :bar_chart: Weekly Development Breakdown:</br>
 <!--START_SECTION:waka-->
 ```text
-INI              2 mins          ████████░░░░░░░░░░░░░░░░░   32.19 % 
-PHP              2 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.13 % 
-Blade Template   1 min           █████▓░░░░░░░░░░░░░░░░░░░   23.30 % 
+Bash             33 mins         ███████████████████░░░░░░   75.40 % 
+JSON             3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+INI              2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+PHP              2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Blade Template   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 ```
 <!--END_SECTION:waka-->
 </br>
