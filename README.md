@@ -33,10 +33,10 @@
 - :bar_chart: Weekly Development Breakdown:</br>
 <!--START_SECTION:waka-->
 ```text
-YAML         1 hr 9 mins     █████████████████░░░░░░░░   67.41 % 
-Properties   17 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.79 % 
-Lua          12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-JSON         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+YAML         1 hr 9 mins     ███████████████████░░░░░░   75.57 % 
+Properties   17 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.82 % 
+JSON         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 <!--END_SECTION:waka-->
 </br>
