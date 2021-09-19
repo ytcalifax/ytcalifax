@@ -33,9 +33,9 @@
 - :bar_chart: Weekly Development Breakdown:</br>
 <!--START_SECTION:waka-->
 ```text
-TOML         33 mins         ███████████████░░░░░░░░░░   59.79 % 
-YAML         15 mins         ███████░░░░░░░░░░░░░░░░░░   28.43 % 
-JSON         4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+TOML         33 mins         ███████████████░░░░░░░░░░   59.74 % 
+YAML         15 mins         ███████░░░░░░░░░░░░░░░░░░   28.41 % 
+JSON         4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
 CSS          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 ```
 <!--END_SECTION:waka-->
