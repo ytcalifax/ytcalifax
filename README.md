@@ -43,7 +43,7 @@ Properties   30 mins         █▒░░░░░░░░░░░░░░░
 </br>
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/X00LA/vMenu/pull/6) in [X00LA/vMenu](https://github.com/X00LA/vMenu)
+1. 💪 Opened PR [#59](https://github.com/Simplix-Softworks/SimplixStorage/pull/59) in [Simplix-Softworks/SimplixStorage](https://github.com/Simplix-Softworks/SimplixStorage)
 <!--END_SECTION:activity-->
 
 ------------
