@@ -33,10 +33,10 @@
 - :bar_chart: Weekly Development Breakdown:</br>
 <!--START_SECTION:waka-->
 ```text
-Java             13 hrs 36 mins  ████████████████████████░   96.01 % 
-Groovy           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-GitIgnore file   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-JSON             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Java             13 hrs 36 mins  ████████████████████████▒   96.76 % 
+Groovy           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+GitIgnore file   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+JSON             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 <!--END_SECTION:waka-->
 </br>
