@@ -33,8 +33,7 @@
 - :bar_chart: Weekly Development Breakdown:</br>
 <!--START_SECTION:waka-->
 ```text
-Java         3 hrs 56 mins   ████████████████████████▓   98.49 % 
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Java   1 hr 38 mins    ████████████████████████▓   99.05 % 
 ```
 <!--END_SECTION:waka-->
 </br>
