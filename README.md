@@ -33,7 +33,9 @@
 - :bar_chart: Weekly Development Breakdown:</br>
 <!--START_SECTION:waka-->
 ```text
-Java   42 mins         ████████████████████████▒   97.84 % 
+Java     42 mins         ██████████░░░░░░░░░░░░░░░   39.74 % 
+Python   39 mins         █████████▒░░░░░░░░░░░░░░░   37.17 % 
+INI      24 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.09 % 
 ```
 <!--END_SECTION:waka-->
 </br>
