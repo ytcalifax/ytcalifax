@@ -33,11 +33,11 @@
 - :bar_chart: Weekly Development Breakdown:</br>
 <!--START_SECTION:waka-->
 ```text
-CSS          2 hrs 14 mins   ████████▒░░░░░░░░░░░░░░░░   33.72 % 
-YAML         2 hrs 3 mins    ███████▓░░░░░░░░░░░░░░░░░   31.03 % 
-Java         1 hr 11 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Properties   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-INI          15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+YAML         2 hrs 3 mins    ████████▒░░░░░░░░░░░░░░░░   33.86 % 
+CSS          1 hr 34 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.96 % 
+Java         1 hr 11 mins    █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+XML          20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Properties   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
 ```
 <!--END_SECTION:waka-->
 </br>
