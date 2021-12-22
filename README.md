@@ -43,7 +43,7 @@ JSON   4 mins          █░░░░░░░░░░░░░░░░░░
 </br>
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#60](https://github.com/Simplix-Softworks/SimplixStorage/pull/60) in [Simplix-Softworks/SimplixStorage](https://github.com/Simplix-Softworks/SimplixStorage)
+1. 🗣 Commented on [#1](https://github.com/ytcalifax/ListOfShame/issues/1) in [ytcalifax/ListOfShame](https://github.com/ytcalifax/ListOfShame)
 <!--END_SECTION:activity-->
 
 ------------
