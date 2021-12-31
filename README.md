@@ -43,7 +43,7 @@ Other        22 mins         █░░░░░░░░░░░░░░░░
 </br>
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/ytcalifax/ListOfShame/issues/1) in [ytcalifax/ListOfShame](https://github.com/ytcalifax/ListOfShame)
+1. 💪 Opened PR [#110](https://github.com/TannerReynolds/ShareX-Upload-Server/pull/110) in [TannerReynolds/ShareX-Upload-Server](https://github.com/TannerReynolds/ShareX-Upload-Server)
 <!--END_SECTION:activity-->
 
 ------------
