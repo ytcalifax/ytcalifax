@@ -33,8 +33,7 @@
 - :bar_chart: Weekly Development Breakdown:</br>
 <!--START_SECTION:waka-->
 ```text
-Lua     2 hrs 21 mins   ████████████████▒░░░░░░░░   64.72 % 
-Other   1 hr 17 mins    ████████▓░░░░░░░░░░░░░░░░   35.28 % 
+JSON         5 mins          ██████████████████████▓░░   90.13 % 
 ```
 <!--END_SECTION:waka-->
 </br>
