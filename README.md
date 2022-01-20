@@ -33,11 +33,11 @@
 - :bar_chart: Weekly Development Breakdown:</br>
 <!--START_SECTION:waka-->
 ```text
-CSS          2 hrs 34 mins   █████████████▓░░░░░░░░░░░   54.99 % 
-JavaScript   1 hr 2 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.09 % 
-HTML         40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-SCSS         16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+CSS          1 hr 58 mins    ████████████░░░░░░░░░░░░░   48.37 % 
+JavaScript   1 hr 2 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.36 % 
+HTML         40 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+SCSS         16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 ```
 <!--END_SECTION:waka-->
 </br>
