@@ -33,11 +33,11 @@
 - :bar_chart: Weekly Development Breakdown:</br>
 <!--START_SECTION:waka-->
 ```text
-Lua         56 mins         █████████▓░░░░░░░░░░░░░░░   39.26 % 
-Other       53 mins         █████████▒░░░░░░░░░░░░░░░   37.03 % 
-JSON        15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-INI         10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Batchfile   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Markdown     2 hrs 21 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.16 % 
+Bash         1 hr 42 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.30 % 
+Properties   1 hr 13 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Lua          56 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Other        53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
 ```
 <!--END_SECTION:waka-->
 </br>
