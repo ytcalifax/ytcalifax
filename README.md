@@ -33,11 +33,11 @@
 - :bar_chart: Weekly Development Breakdown:</br>
 <!--START_SECTION:waka-->
 ```text
-Markdown     2 hrs 21 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.92 % 
-Bash         1 hr 42 mins    █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-HTML         1 hr 18 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Properties   1 hr 13 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Lua          55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Markdown     2 hrs 30 mins   ███████░░░░░░░░░░░░░░░░░░   28.17 % 
+Bash         1 hr 42 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.18 % 
+HTML         1 hr 18 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Properties   1 hr 13 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Lua          55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
 ```
 <!--END_SECTION:waka-->
 </br>
