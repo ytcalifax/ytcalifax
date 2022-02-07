@@ -43,7 +43,7 @@ Properties   18 mins         █▓░░░░░░░░░░░░░░░
 </br>
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/DiscordStyles/Fluent/issues/2) in [DiscordStyles/Fluent](https://github.com/DiscordStyles/Fluent)
+1. 🗣 Commented on [#53](https://github.com/PrismarineJS/mineflayer-collectblock/issues/53) in [PrismarineJS/mineflayer-collectblock](https://github.com/PrismarineJS/mineflayer-collectblock)
 <!--END_SECTION:activity-->
 
 ------------
