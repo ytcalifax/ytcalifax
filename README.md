@@ -43,7 +43,7 @@ Properties   18 mins         ▓░░░░░░░░░░░░░░░░
 </br>
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#81](https://github.com/PrismarineJS/mineflayer-collectblock/issues/81) in [PrismarineJS/mineflayer-collectblock](https://github.com/PrismarineJS/mineflayer-collectblock)
+1. 🗣 Commented on [#73](https://github.com/PrismarineJS/mineflayer-collectblock/issues/73) in [PrismarineJS/mineflayer-collectblock](https://github.com/PrismarineJS/mineflayer-collectblock)
 <!--END_SECTION:activity-->
 
 ------------
