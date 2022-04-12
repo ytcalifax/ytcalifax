@@ -46,7 +46,7 @@ Other            21 mins         █░░░░░░░░░░░░░░�
 </br>
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#73](https://github.com/PrismarineJS/mineflayer-collectblock/issues/73) in [PrismarineJS/mineflayer-collectblock](https://github.com/PrismarineJS/mineflayer-collectblock)
+1. ❗️ Closed issue [#36](https://github.com/schnensch0/zelk/issues/36) in [schnensch0/zelk](https://github.com/schnensch0/zelk)
 <!--END_SECTION:activity-->
 
 ------------
