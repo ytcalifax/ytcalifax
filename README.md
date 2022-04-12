@@ -46,7 +46,7 @@ Other            21 mins         █░░░░░░░░░░░░░░�
 </br>
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#36](https://github.com/schnensch0/zelk/issues/36) in [schnensch0/zelk](https://github.com/schnensch0/zelk)
+1. ❗️ Reopened issue [#36](https://github.com/schnensch0/zelk/issues/36) in [schnensch0/zelk](https://github.com/schnensch0/zelk)
 <!--END_SECTION:activity-->
 
 ------------
