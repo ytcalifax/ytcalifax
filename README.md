@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning everything
 - 🥅 2022 & 2023 Goals: Contribute more to Open Source projects
 - 💬 Ask me about **anything coding-related**.
-- 📫 How to reach me: [@ytcalifax](https://twitter.com/ytcalifax) on Twitter
+- 📫 How to reach me: [@realytcalifax](https://twitter.com/realytcalifax) on Twitter
 
 -----
 ### 🔨 Languages & Tools
