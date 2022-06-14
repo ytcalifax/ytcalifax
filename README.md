@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" length="20px"> Hey! Nice to see you.</h2>
+<h2 align="center">Hey! Nice to see you.</h2>
 <p align="center">  
   <a href="https://instagram.com/btrayanovv">Instagram</a> •
   <a href="https://www.youtube.com/channel/UCYFr6dErGictp4nOGnQpQvQ">YouTube</a> •
