@@ -45,7 +45,7 @@ GitIgnore file   0 secs          ░░░░░░░░░░░░░░░�
 </br>
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#40](https://github.com/schnensch0/zelk/issues/40) in [schnensch0/zelk](https://github.com/schnensch0/zelk)
+1. 🗣 Commented on [#22](https://github.com/Nan1t/NanoLimbo/issues/22) in [Nan1t/NanoLimbo](https://github.com/Nan1t/NanoLimbo)
 <!--END_SECTION:activity-->
 
 ------------
