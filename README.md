@@ -43,7 +43,7 @@ Other        22 mins         ██▒░░░░░░░░░░░░░░
 </br>
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#14](https://github.com/ichbinbenni/MineConnectAppPublic/issues/14) in [ichbinbenni/MineConnectAppPublic](https://github.com/ichbinbenni/MineConnectAppPublic)
+1. ❗️ Opened issue [#42](https://github.com/Nan1t/NanoLimbo/issues/42) in [Nan1t/NanoLimbo](https://github.com/Nan1t/NanoLimbo)
 <!--END_SECTION:activity-->
 
 ------------
