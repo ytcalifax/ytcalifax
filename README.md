@@ -43,7 +43,7 @@ Other        30 mins         ██▒░░░░░░░░░░░░░░
 </br>
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#42](https://github.com/Nan1t/NanoLimbo/issues/42) in [Nan1t/NanoLimbo](https://github.com/Nan1t/NanoLimbo)
+1. 🗣 Commented on [#2668](https://github.com/PrismarineJS/mineflayer/issues/2668) in [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer)
 <!--END_SECTION:activity-->
 
 ------------
