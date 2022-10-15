@@ -44,7 +44,7 @@ Other            34 mins         ▓░░░░░░░░░░░░░░�
 </br>
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/Jakkoble/TwitchWhitelist/issues/3) in [Jakkoble/TwitchWhitelist](https://github.com/Jakkoble/TwitchWhitelist)
+1. 🗣 Commented on [#3](https://github.com/Jakkoble/TwitchWhitelist/issues/3) in [Jakkoble/TwitchWhitelist](https://github.com/Jakkoble/TwitchWhitelist)
 <!--END_SECTION:activity-->
 
 ------------
