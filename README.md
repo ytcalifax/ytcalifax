@@ -2,7 +2,7 @@
 <p align="center">  
   <a href="https://instagram.com/btrayanovv">Instagram</a> •
   <a href="https://www.youtube.com/channel/UCYFr6dErGictp4nOGnQpQvQ">YouTube</a> •
-  <a href="https://twitter.com/ytcalifax">Twitter</a> 
+  <a href="https://twitter.com/realytcalifax">Twitter</a> 
 </p>
 
 <p>Welcome to my page! </br> I'm ytcalifax, a fullstack developer from <img src="https://img.icons8.com/color/48/000000/bulgaria-circular.png" width="13"/> <b>Sofia, Bulgaria</b>.</p>
