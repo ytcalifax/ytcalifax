@@ -46,7 +46,7 @@ Markdown     6 mins          █▒░░░░░░░░░░░░░░░
 </br>
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/Jakkoble/TwitchWhitelist/issues/3) in [Jakkoble/TwitchWhitelist](https://github.com/Jakkoble/TwitchWhitelist)
+1. ❗️ Opened issue [#1](https://github.com/qxb3/omegle.js/issues/1) in [qxb3/omegle.js](https://github.com/qxb3/omegle.js)
 <!--END_SECTION:activity-->
 
 ------------
