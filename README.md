@@ -46,7 +46,7 @@ Python          20 mins         ▒░░░░░░░░░░░░░░░
 </br>
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/qxb3/omegle.js/issues/1) in [qxb3/omegle.js](https://github.com/qxb3/omegle.js)
+1. ❗️ Opened issue [#2](https://github.com/qxb3/omegle.js/issues/2) in [qxb3/omegle.js](https://github.com/qxb3/omegle.js)
 <!--END_SECTION:activity-->
 
 ------------
