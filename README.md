@@ -46,7 +46,7 @@ JSON             1 min           ░░░░░░░░░░░░░░░�
 </br>
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#95](https://github.com/moudey/Shell/issues/95) in [moudey/Shell](https://github.com/moudey/Shell)
+1. ❗️ Reopened issue [#95](https://github.com/moudey/Shell/issues/95) in [moudey/Shell](https://github.com/moudey/Shell)
 <!--END_SECTION:activity-->
 
 ------------
