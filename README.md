@@ -46,7 +46,7 @@ JSON             1 min           ░░░░░░░░░░░░░░░�
 </br>
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/qxb3/omegle.js/issues/3) in [qxb3/omegle.js](https://github.com/qxb3/omegle.js)
+1. ❗️ Closed issue [#95](https://github.com/moudey/Shell/issues/95) in [moudey/Shell](https://github.com/moudey/Shell)
 <!--END_SECTION:activity-->
 
 ------------
