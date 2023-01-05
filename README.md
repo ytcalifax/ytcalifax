@@ -34,11 +34,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python       5 hrs 52 mins   ███████████████████████░░   92.38 %
-INI          14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-SQL          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
