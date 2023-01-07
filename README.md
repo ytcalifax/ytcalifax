@@ -41,7 +41,7 @@ No activity tracked
 </br>
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#95](https://github.com/moudey/Shell/issues/95) in [moudey/Shell](https://github.com/moudey/Shell)
+1. ❗️ Closed issue [#95](https://github.com/moudey/Shell/issues/95) in [moudey/Shell](https://github.com/moudey/Shell)
 <!--END_SECTION:activity-->
 
 ------------
