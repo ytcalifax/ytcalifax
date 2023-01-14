@@ -41,7 +41,7 @@ No activity tracked
 </br>
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#16](https://github.com/dragdev-studios/PostBin/issues/16) in [dragdev-studios/PostBin](https://github.com/dragdev-studios/PostBin)
+1. ❗️ Opened issue [#9](https://github.com/PythonistaGuild/mystbin.py/issues/9) in [PythonistaGuild/mystbin.py](https://github.com/PythonistaGuild/mystbin.py)
 <!--END_SECTION:activity-->
 
 ------------
