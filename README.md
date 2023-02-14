@@ -34,8 +34,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python   0 secs          ████████████████████▒░░░░   81.74 %
-INI      0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   18.26 %
+Python   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
