@@ -41,7 +41,7 @@ Other           1 hr 51 mins    ███████████████▓
 </br>
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#9](https://github.com/PythonistaGuild/mystbin.py/issues/9) in [PythonistaGuild/mystbin.py](https://github.com/PythonistaGuild/mystbin.py)
+1. 💪 Opened PR [#16](https://github.com/uzox/uzox/pull/16) in [uzox/uzox](https://github.com/uzox/uzox)
 <!--END_SECTION:activity-->
 
 ------------
