@@ -20,7 +20,7 @@
 -----
 ### 🧑‍💻 Languages 
 <p>  
-  <img alt="HTML, CSS, JS, PHP, NodeJS, Java, C#, Python, MySQL" src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,java,cs,python,mysql"/>  
+  <img alt="HTML, CSS, JS, NodeJS, PHP, Java, C#, Python, MySQL" src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,java,cs,python,mysql"/>  
 </p>
 
 -----
