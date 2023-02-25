@@ -13,9 +13,9 @@
 - 📫 How to reach me: [@realytcalifax](https://twitter.com/realytcalifax) on Twitter
 
 -----
-### 🔨 Toolset
+### 🔨 Tools
 <p>  
-  <img alt="Raspberry Pi, Linux, VSCode, Idea, Vim, Git, Github Actions, Sentry" src="https://skillicons.dev/icons?i=raspberrypi,linux,vscode,idea,vim,git,githubactions,sentry" />  
+  <img alt="Raspberry Pi, Linux, VSCode, Idea, Vim, Git, GitHub, Github Actions, Sentry" src="https://skillicons.dev/icons?i=raspberrypi,linux,vscode,idea,vim,git,github,githubactions,sentry" />  
 
 -----
 ### 🧑‍💻 Languages 
