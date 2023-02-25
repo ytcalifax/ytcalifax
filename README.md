@@ -13,18 +13,14 @@
 - 📫 How to reach me: [@realytcalifax](https://twitter.com/realytcalifax) on Twitter
 
 -----
-### 🔨 Languages & Tools
+### 🔨 Toolset
 <p>  
-  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-EC4A3F?style=flat-square&logo=visual-studio&logoColor=white" />  
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Brave Browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-13aa52?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="LUA" src="https://img.shields.io/badge/-LUA-46a2f1?style=flat-square&logo=lua&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-2088FF?style=flat-square&logo=php&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-F9A03C?style=flat-square&logo=python&logoColor=white" />
-  <img alt="SQL/MySQL" src="https://img.shields.io/badge/-SQL/MySQL-F7B93E?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Raspberry Pi, Linux, VSCode, Idea, Vim, Git, Github Actions, Sentry" src="https://skillicons.dev/icons?i=raspberrypi,linux,vscode,idea,vim,git,githubactions,sentry" />  
+
+-----
+### 🧑‍💻 Languages 
+<p>  
+  <img alt="HTML, CSS, JS, PHP, NodeJS, Java, C#, Python, MySQL" src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,java,cs,python,mysql"/>  
 </p>
 
 -----
