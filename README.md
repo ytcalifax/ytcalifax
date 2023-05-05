@@ -41,7 +41,7 @@ JSON                  1 hr 14 mins    █▓░░░░░░░░░░░░
 </br>
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/uzox/uzox/pull/16) in [uzox/uzox](https://github.com/uzox/uzox)
+1. 🗣 Commented on [#5](https://github.com/RikoDEV/pterodactyl-graalvm/issues/5) in [RikoDEV/pterodactyl-graalvm](https://github.com/RikoDEV/pterodactyl-graalvm)
 <!--END_SECTION:activity-->
 
 ------------
