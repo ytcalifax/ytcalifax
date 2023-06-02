@@ -29,7 +29,7 @@
 - :bar_chart: Weekly Development Breakdown:</br>
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Python             5 hrs 22 mins   ███████░░░░░░░░░░░░░░░░░░   28.34 %
 Other              3 hrs 42 mins   █████░░░░░░░░░░░░░░░░░░░░   19.59 %
 JavaScript         3 hrs 33 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.77 %
