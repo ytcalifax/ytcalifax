@@ -41,7 +41,7 @@ XML              5 mins          ▒░░░░░░░░░░░░░░�
 </br>
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/RikoDEV/pterodactyl-graalvm/issues/5) in [RikoDEV/pterodactyl-graalvm](https://github.com/RikoDEV/pterodactyl-graalvm)
+1. 🗣 Commented on [#5](https://github.com/RikoDEV/pterodactyl-graalvm/issues/5#issuecomment-1536237682) in [RikoDEV/pterodactyl-graalvm](https://github.com/RikoDEV/pterodactyl-graalvm)
 <!--END_SECTION:activity-->
 
 ------------
