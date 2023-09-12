@@ -30,9 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python     42 mins         ████████████████████░░░░░   80.02 %
-textmate   9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.85 %
-TSQL       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
