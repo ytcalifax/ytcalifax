@@ -37,7 +37,7 @@ No activity tracked
 </br>
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/RikoDEV/pterodactyl-graalvm/issues/5#issuecomment-1536237682) in [RikoDEV/pterodactyl-graalvm](https://github.com/RikoDEV/pterodactyl-graalvm)
+1. 💪 Opened PR [#3](https://github.com/RapierXbox/ESP32-Sour-Apple/pull/3) in [RapierXbox/ESP32-Sour-Apple](https://github.com/RapierXbox/ESP32-Sour-Apple)
 <!--END_SECTION:activity-->
 
 ------------
