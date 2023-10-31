@@ -37,7 +37,7 @@ No activity tracked
 </br>
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/RapierXbox/ESP32-Sour-Apple/pull/3) in [RapierXbox/ESP32-Sour-Apple](https://github.com/RapierXbox/ESP32-Sour-Apple)
+1. 💪 Opened PR [#7](https://github.com/RapierXbox/ESP32-Sour-Apple/pull/7) in [RapierXbox/ESP32-Sour-Apple](https://github.com/RapierXbox/ESP32-Sour-Apple)
 <!--END_SECTION:activity-->
 
 ------------
