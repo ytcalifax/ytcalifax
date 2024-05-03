@@ -8,7 +8,7 @@
 <p>Welcome to my page! </br> I'm ytcalifax, a fullstack developer from <img src="https://img.icons8.com/color/48/000000/bulgaria-circular.png" width="13"/> <b>Sofia, Bulgaria</b>.</p>
 
 - 🌱 I’m currently learning everything
-- 🥅 2022 & 2023 Goals: Contribute more to Open Source projects
+- 🥅 2023 & 2024 Goals: Contribute more to Open Source projects
 - 💬 Ask me about **anything coding-related**.
 - 📫 How to reach me: [@realytcalifax](https://twitter.com/realytcalifax) on Twitter
 
