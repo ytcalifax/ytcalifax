@@ -26,15 +26,6 @@
 -----
 ### 🏆 Github Stats
 
-- :bar_chart: Weekly Development Breakdown:</br>
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-</br>
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#7](https://github.com/RapierXbox/ESP32-Sour-Apple/pull/7) in [RapierXbox/ESP32-Sour-Apple](https://github.com/RapierXbox/ESP32-Sour-Apple)
