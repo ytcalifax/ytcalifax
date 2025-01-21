@@ -28,7 +28,7 @@
 
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/RapierXbox/ESP32-Sour-Apple/pull/7) in [RapierXbox/ESP32-Sour-Apple](https://github.com/RapierXbox/ESP32-Sour-Apple)
+1. 💪 Opened PR [#2813](https://github.com/neondatabase/website/pull/2813) in [neondatabase/website](https://github.com/neondatabase/website)
 <!--END_SECTION:activity-->
 
 ------------
