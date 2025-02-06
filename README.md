@@ -28,7 +28,7 @@
 
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2813](https://github.com/neondatabase/website/pull/2813) in [neondatabase/website](https://github.com/neondatabase/website)
+1. 💪 Opened PR [#173](https://github.com/spring1843/go-dsa/pull/173) in [spring1843/go-dsa](https://github.com/spring1843/go-dsa)
 <!--END_SECTION:activity-->
 
 ------------
