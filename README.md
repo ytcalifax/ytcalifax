@@ -28,7 +28,7 @@
 
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#173](https://github.com/spring1843/go-dsa/pull/173) in [spring1843/go-dsa](https://github.com/spring1843/go-dsa)
+1. 🗣 Commented on [#12576](https://github.com/docker/for-win/issues/12576#issuecomment-2767030444) in [docker/for-win](https://github.com/docker/for-win)
 <!--END_SECTION:activity-->
 
 ------------
