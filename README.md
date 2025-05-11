@@ -28,7 +28,7 @@
 
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12576](https://github.com/docker/for-win/issues/12576#issuecomment-2767030444) in [docker/for-win](https://github.com/docker/for-win)
+1. 🗣 Commented on [#981](https://github.com/rapidfort/community-images/issues/981#issuecomment-2870198379) in [rapidfort/community-images](https://github.com/rapidfort/community-images)
 <!--END_SECTION:activity-->
 
 ------------
