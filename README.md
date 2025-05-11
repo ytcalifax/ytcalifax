@@ -15,7 +15,7 @@
 -----
 ### 🔨 Tools
 <p>  
-  <img alt="Raspberry Pi, Linux, VSCode, Idea, Vim, Git, GitHub, Github Actions, Sentry" src="https://skillicons.dev/icons?i=raspberrypi,linux,vscode,idea,vim,git,github,githubactions,sentry" />  
+  <img alt="Raspberry Pi, Linux, VSCode, Idea, Vim, Git, GitHub, Github Actions, Sentry" src="https://skillicons.dev/icons?i=raspberrypi,linux,docker,vscode,idea,vim,git,github,githubactions,sentry" />  
 
 -----
 ### 🧑‍💻 Languages 
