@@ -28,7 +28,7 @@
 
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#981](https://github.com/rapidfort/community-images/issues/981#issuecomment-2870198379) in [rapidfort/community-images](https://github.com/rapidfort/community-images)
+1. 🔒 Closed issue [#981](https://github.com/rapidfort/community-images/issues/981) in [rapidfort/community-images](https://github.com/rapidfort/community-images)
 <!--END_SECTION:activity-->
 
 ------------
