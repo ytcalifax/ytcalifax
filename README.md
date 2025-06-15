@@ -28,7 +28,7 @@
 
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#981](https://github.com/rapidfort/community-images/issues/981) in [rapidfort/community-images](https://github.com/rapidfort/community-images)
+1. 🔒 Closed issue [#1](https://github.com/dannyfwbb/yunzii-yz87-monitor/issues/1) in [dannyfwbb/yunzii-yz87-monitor](https://github.com/dannyfwbb/yunzii-yz87-monitor)
 <!--END_SECTION:activity-->
 
 ------------
