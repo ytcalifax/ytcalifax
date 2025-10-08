@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning everything
 - 🥅 2025 & 2026 Goals: Contribute more to Open Source projects
-- 💬 Ask me about **anything coding-related**.
+- 💬 Ask me about **anything coding or Linux-related**.
 - 📫 How to reach me: [@realytcalifax](https://twitter.com/realytcalifax) on Twitter
 
 -----
