@@ -28,7 +28,7 @@
 
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/dannyfwbb/yunzii-yz87-monitor/issues/1) in [dannyfwbb/yunzii-yz87-monitor](https://github.com/dannyfwbb/yunzii-yz87-monitor)
+1. 💪 Opened PR [#4](https://github.com/AleksFirsta/mysql-cluster/pull/4) in [AleksFirsta/mysql-cluster](https://github.com/AleksFirsta/mysql-cluster)
 <!--END_SECTION:activity-->
 
 ------------
