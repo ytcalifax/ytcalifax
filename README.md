@@ -28,7 +28,7 @@
 
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/AleksFirsta/mysql-cluster/pull/4) in [AleksFirsta/mysql-cluster](https://github.com/AleksFirsta/mysql-cluster)
+1. 💪 Opened PR [#5](https://github.com/AleksFirsta/mysql-cluster/pull/5) in [AleksFirsta/mysql-cluster](https://github.com/AleksFirsta/mysql-cluster)
 <!--END_SECTION:activity-->
 
 ------------
