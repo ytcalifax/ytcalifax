@@ -28,7 +28,7 @@
 
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/AleksFirsta/mysql-cluster/pull/5) in [AleksFirsta/mysql-cluster](https://github.com/AleksFirsta/mysql-cluster)
+1. 🚀 Published release [v1.0.1](https://github.com/ytcalifax/vestige/releases/tag/v1.0.1) in [ytcalifax/vestige](https://github.com/ytcalifax/vestige)
 <!--END_SECTION:activity-->
 
 ------------
