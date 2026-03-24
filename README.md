@@ -28,7 +28,7 @@
 
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.2.0](https://github.com/ytcalifax/vestige/releases/tag/v1.2.0) in [ytcalifax/vestige](https://github.com/ytcalifax/vestige)
+1. 🚀 Published release [v1.0.0](https://github.com/ytcalifax/trueframe/releases/tag/v1.0.0) in [ytcalifax/trueframe](https://github.com/ytcalifax/trueframe)
 <!--END_SECTION:activity-->
 
 ------------
