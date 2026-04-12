@@ -28,7 +28,7 @@
 
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/ytcalifax/trueframe/releases/tag/v1.0.0) in [ytcalifax/trueframe](https://github.com/ytcalifax/trueframe)
+1. 🗣 Commented on [#317](https://github.com/DigiLive/mushroom-strategy/issues/317#issuecomment-4230097232) in [DigiLive/mushroom-strategy](https://github.com/DigiLive/mushroom-strategy)
 <!--END_SECTION:activity-->
 
 ------------
