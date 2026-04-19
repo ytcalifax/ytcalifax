@@ -28,7 +28,7 @@
 
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#317](https://github.com/DigiLive/mushroom-strategy/issues/317#issuecomment-4230097232) in [DigiLive/mushroom-strategy](https://github.com/DigiLive/mushroom-strategy)
+1. 🔒 Closed issue [#317](https://github.com/DigiLive/mushroom-strategy/issues/317) in [DigiLive/mushroom-strategy](https://github.com/DigiLive/mushroom-strategy)
 <!--END_SECTION:activity-->
 
 ------------
