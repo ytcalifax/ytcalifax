@@ -28,7 +28,7 @@
 
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23193](https://github.com/cockpit-project/cockpit/issues/23193#issuecomment-4342907578) in [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit)
+1. ❗ Opened issue [#2](https://github.com/marler8997/mite/issues/2) in [marler8997/mite](https://github.com/marler8997/mite)
 <!--END_SECTION:activity-->
 
 ------------
