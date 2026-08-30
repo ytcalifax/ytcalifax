@@ -28,7 +28,7 @@
 
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/marler8997/mite/issues/2) in [marler8997/mite](https://github.com/marler8997/mite)
+1. 🚀 Published release [v1.1.0](https://github.com/ytcalifax/playforge/releases/tag/v1.1.0) in [ytcalifax/playforge](https://github.com/ytcalifax/playforge)
 <!--END_SECTION:activity-->
 
 ------------
