@@ -28,7 +28,7 @@
 
 - :zap: Recent GitHub Activity:</br>
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.0](https://github.com/ytcalifax/playforge/releases/tag/v1.1.0) in [ytcalifax/playforge](https://github.com/ytcalifax/playforge)
+1. 🚀 Published release [v1.3.0](https://github.com/ytcalifax/playforge/releases/tag/v1.3.0) in [ytcalifax/playforge](https://github.com/ytcalifax/playforge)
 <!--END_SECTION:activity-->
 
 ------------
